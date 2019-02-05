@@ -4,7 +4,7 @@ Folder Description:
 helper -> in helper folder GUIClass contains which is helper class for GUI using tkinter library
 
 screen_shot -> two screen shot contains of result of this script for each GUI and Non-GUI
-
+![Alt text](screen_shot/screen_shot_gui.png?raw=true "Output GUI")
 File Description:
 data_order.json -> data set of transaction history for building model as JSON Format
 
