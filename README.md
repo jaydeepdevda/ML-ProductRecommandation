@@ -7,7 +7,7 @@ screen_shot -> two screen shot contains of result of this script for each GUI an
 ![Alt text](screen_shot/screen_shot_gui.png?raw=true "Output GUI")
 
 File Description:
-data_order.json -> data set of transaction history for building model as JSON Format
+data_order.json  (Private Data) -> data set of transaction history for building model as JSON Format
 
 script_main_gui.py -> GUI Version
 
